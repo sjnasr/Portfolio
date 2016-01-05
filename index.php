@@ -64,6 +64,8 @@ and open the template in the editor.
                 <li data-target="#main-slider" data-slide-to="1"></li>
                 <li data-target="#main-slider" data-slide-to="2"></li>
             </ol>
+            
+            <!--first slide 0-->
             <div class="carousel-inner">
                 <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
                     <div class="container">
