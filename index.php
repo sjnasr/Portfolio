@@ -253,9 +253,7 @@ and open the template in the editor.
                 <div class="col-sm-6">
                     <ul class="pull-right">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="About Me.php">About Me</a></li>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="Contact.php">Contact Us</a></li>
                         <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
                     </ul>
                 </div>
