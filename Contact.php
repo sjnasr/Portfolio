@@ -71,6 +71,7 @@
         </section><!--/#title-->    
 
 
+        
         <!--Change footer-->
         <footer id="footer" class="midnight-blue">
             <div class="container">
