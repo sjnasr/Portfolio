@@ -201,6 +201,8 @@ and open the template in the editor.
                                 <br>
                                 <p>Created about me page</p>
                                 <small>Updated 1/21/16</small>
+                                <p>Updated about me page, Created contact page.</p>
+                                <small>Updated 2/21/16</small>
                             </blockquote>
                             <!--<blockquote>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>

@@ -48,5 +48,46 @@
             </div>
         </header>
         <!--Navbar ends-->
+
+        <section id="title" class="emerald">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h1>Contact Me</h1>
+                        <p>You can contact me via email, phone or connect with me on Linkedin.</p>
+                        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+                        <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/sara-nasr-77740b99" data-format="hover" data-text="Sara Nasr"></script>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <h4>Contact</h4>
+                        <address>
+                            <abbr title="Email">E:</abbr>  sjnasr18@yahoo.com<br>
+                            <abbr title="Phone">P:</abbr> (650) 315-1994
+                        </address>
+
+                    </div> <!--/.col-md-3-->
+                </div>
+            </div>
+        </section><!--/#title-->    
+
+
+        <!--Change footer-->
+        <footer id="footer" class="midnight-blue">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        &copy; 2016 Sara Nasr. All Rights Reserved.
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="pull-right">
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="Contact.php">Contact Us</a></li>
+                            <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer><!--/#footer-->
+
     </body>
 </html>
