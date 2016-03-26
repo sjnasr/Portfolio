@@ -38,8 +38,6 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="About Me.php">About Me</a></li>
-                        <li><a href="Education.php">Education</a></li>
-                        <li><a href="Skills.php">Special Skills</a></li>
                         <li class="active"><a href="Current_Past Projects.php">Current/Past Programming Projects</a></li>
                         <li><a href="Other.php">Other Projects</a></li> 
                         <li><a href="Contact.php">Contact</a></li>
@@ -48,5 +46,7 @@
             </div>
         </header>
         <!--Navbar ends-->
+        
+        <h1>Under Construction</h1>
     </body>
 </html>

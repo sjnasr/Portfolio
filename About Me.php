@@ -66,62 +66,16 @@
         <div class="row">
             <div class="col-sm-6">
                 <h2>What I am Currently Learning</h2>
-                <p>Python, Unreal Engine, More MySQL</p>
+                <ul style = "font-size: 18px;">
+                    <li style="color: ">Python</li>
+                    <li>Unreal Engine</li>
+                    <li>MySQL</li>
+                </ul>
             </div><!--/.col-sm-6-->
             <div class="col-sm-6">
                 <h2>My Skills</h2>
                 <div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                            <span>HTML/CSS</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-                            <span>Java</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                            <span>C++/C</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-                            <span>Javascript</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
-                            <span>PHP</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-                            <span>Ruby on Rails</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
-                            <span>MySQL</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                            <span>Git</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">
-                            <span>SVN</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
-                            <span>Unix</span>
-                        </div>
-                    </div>
-                </div>
+                    
             </div><!--/.col-sm-6-->
         </div><!--/.row-->
     </section><!--/#about-us-->

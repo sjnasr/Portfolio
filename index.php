@@ -209,16 +209,12 @@ and open the template in the editor.
                                 <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
                             </blockquote>-->
                         </div>
-                        <!--<div class="col-md-6">
+                        <div class="col-md-6">
                             <blockquote>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                                <p>Added stuff to About me section, fixed navbar for Current/Past Projects and other projects.</p>
+                                <small>Updated 3/25/2016</small>
                             </blockquote>
-                            <blockquote>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
-                            </blockquote>
-                        </div>-->
+                        </div>
                     </div>
                 </div>
             </div>
